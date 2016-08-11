@@ -1,0 +1,3 @@
+/home/aicrobo/sbg_test/build/CMakeFiles/rebuild_cache.dir
+/home/aicrobo/sbg_test/build/CMakeFiles/edit_cache.dir
+/home/aicrobo/sbg_test/build/CMakeFiles/ig500Continuous.dir

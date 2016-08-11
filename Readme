@@ -1,0 +1,3 @@
+#IG-500N-G4A2P1-B型号IMU使用
+##sbg_lib:生成libSBG.so库文件
+##sbg_test:调用库文件，读取并输出imu数据（加表和陀螺仪），默认端口为/dev/ttyUSB0,波特率为115200

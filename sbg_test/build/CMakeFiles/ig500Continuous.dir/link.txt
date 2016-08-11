@@ -1,0 +1,1 @@
+/usr/bin/cc    -Wall  -O3 -march=native  -O3 -DNDEBUG   CMakeFiles/ig500Continuous.dir/ig500Continuous.c.o  -o ig500Continuous -rdynamic ../lib/libSBG.so -Wl,-rpath,/home/aicrobo/sbg_test/lib 
